@@ -1,0 +1,66 @@
+
+@font-face {
+    font-family: 'BitterBold';
+    src: url('Bitter-Bold.eot');
+    src: url('Bitter-Bold.eot?#iefix') format('embedded-opentype'),
+         url('Bitter-Bold.ttf') format('truetype'),
+         url('Bitter-Bold.svg#BitterBold') format('svg');
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'BitterRegular';
+    src: url('Bitter-Regular.eot');
+    src: url('Bitter-Regular.eot?#iefix') format('embedded-opentype'),
+         url('Bitter-Regular.ttf') format('truetype'),
+         url('Bitter-Regular.svg#BitterRegular') format('svg');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'FiraSansBold';
+    src: url('FiraSans-Bold.eot');
+    src: url('FiraSans-Bold.eot?#iefix') format('embedded-opentype'),
+         url('FiraSans-Bold.ttf') format('truetype'),
+         url('FiraSans-Bold.svg#FiraSansBold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'FiraSansMedium';
+    src: url('FiraSans-Medium.eot');
+    src: url('FiraSans-Medium.eot?#iefix') format('embedded-opentype'),
+         url('FiraSans-Medium.ttf') format('truetype'),
+         url('FiraSans-Medium.svg#FiraSansMedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'FiraSansRegular';
+    src: url('FiraSans-Regular.eot');
+    src: url('FiraSans-Regular.eot?#iefix') format('embedded-opentype'),
+         url('FiraSans-Regular.ttf') format('truetype'),
+         url('FiraSans-Regular.svg#FiraSansRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'FiraSansItalic';
+    src: url('FiraSans-Italic.eot');
+    src: url('FiraSans-Italic.eot?#iefix') format('embedded-opentype'),
+         url('FiraSans-Italic.ttf') format('truetype'),
+         url('FiraSans-Italic.svg#FiraSansItalic') format('svg');
+    font-style: Italic;
+
+}
+@font-face {
+    font-family: 'FiraSansLightItalic';
+    src: url('FiraSans-LightItalic.eot');
+    src: url('FiraSans-LightItalic.eot?#iefix') format('embedded-opentype'),
+         url('FiraSans-LightItalic.ttf') format('truetype'),
+         url('FiraSans-LightItalic.svg#FiraSansLightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+
+}
+
+

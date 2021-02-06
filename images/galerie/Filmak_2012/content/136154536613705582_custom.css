@@ -1,0 +1,27 @@
+﻿				#previewFull {background-color: #345c98 !important; width: 803px !important; color: inherit}
+				#liveUpdateContactInfo {color: #3c7a30 !important; background-color: inherit;}
+				.borderRightDotted {border-right: 1px dotted #ffffff !important;}
+				.logo {display: none !important;}
+				#liveUpdateCollectionDescription {color: #3c7a30 !important; background-color: inherit;}
+				.detailNav, .detailLinks, #detailCaption, #detailTitle {color: #ffc617 !important; background-color: inherit;}
+				.emptyThumbnail {background-color: #47a7e0 !important; color: inherit;}
+				.thumbnail {background-color: #47a7e0 !important; color: inherit;}
+				.previewFullImage {height: 750px !important; width: 803px !important;}
+				#stage2 {width: 807px !important;}
+				.itemNumber {display: inherit !important; color: #57ade1 !important; background-color: inherit;}
+				#content {background-color: #d0f7fd !important; color: inherit;}
+				.borderTopLeft {border-top: 1px solid #ffffff !important; border-left: 1px solid #ffffff !important;}
+				#stage {width: 807px !important;}
+				.caption {color: #3c7a30 !important; background-color: inherit;}
+				#wrapper2 {width: 807px !important;}
+				.borderBottomRight {border-right: 1px solid #ffffff !important; border-bottom: 1px solid #ffffff !important;}
+				#wrapper {width: 807px !important;}
+				#liveUpdateCollectionTitle {color: #3c7a30 !important; background-color: inherit;}
+				.paginationLinks, .pagination, #liveUpdatePagination {color: #3c7a30 !important; background-color: inherit;}
+				.selectedThumbnail, .thumbnail:hover {background-color: #3c80ca !important; color: inherit;}
+				#liveUpdateSiteTitle {color: #3c7a30 !important; background-color: inherit;}
+				#thumbnailName {color: #ffc617 !important; background-color: inherit;}
+				#largeName {color: #ffc617 !important; background-color: inherit; margin-top: 10px; margin-left: 7px; margin-right: 7px;}
+				.borderBottom {border-bottom: 1px solid #ffffff !important;}
+				.borderRight {border-right: 1px solid #ffffff !important;}
+				body {background-color: #d0f7fd !important; color: inherit;}

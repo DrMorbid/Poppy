@@ -1,0 +1,335 @@
+﻿<?xml version="1.0"?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+
+"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+
+<photoCollection mode="publish">
+<display>
+<style cellBorderColor="#ffffff" cellRolloverColor="#3c80ca" cssVersion="136154536613705582" idplateEnabled="false" css="&#xA;				#previewFull {background-color: #345c98 !important; width: 803px !important; color: inherit}&#xA;				#liveUpdateContactInfo {color: #3c7a30 !important; background-color: inherit;}&#xA;				.borderRightDotted {border-right: 1px dotted #ffffff !important;}&#xA;				.logo {display: none !important;}&#xA;				#liveUpdateCollectionDescription {color: #3c7a30 !important; background-color: inherit;}&#xA;				.detailNav, .detailLinks, #detailCaption, #detailTitle {color: #ffc617 !important; background-color: inherit;}&#xA;				.emptyThumbnail {background-color: #47a7e0 !important; color: inherit;}&#xA;				.thumbnail {background-color: #47a7e0 !important; color: inherit;}&#xA;				.previewFullImage {height: 750px !important; width: 803px !important;}&#xA;				#stage2 {width: 807px !important;}&#xA;				.itemNumber {display: inherit !important; color: #57ade1 !important; background-color: inherit;}&#xA;				#content {background-color: #d0f7fd !important; color: inherit;}&#xA;				.borderTopLeft {border-top: 1px solid #ffffff !important; border-left: 1px solid #ffffff !important;}&#xA;				#stage {width: 807px !important;}&#xA;				.caption {color: #3c7a30 !important; background-color: inherit;}&#xA;				#wrapper2 {width: 807px !important;}&#xA;				.borderBottomRight {border-right: 1px solid #ffffff !important; border-bottom: 1px solid #ffffff !important;}&#xA;				#wrapper {width: 807px !important;}&#xA;				#liveUpdateCollectionTitle {color: #3c7a30 !important; background-color: inherit;}&#xA;				.paginationLinks, .pagination, #liveUpdatePagination {color: #3c7a30 !important; background-color: inherit;}&#xA;				.selectedThumbnail, .thumbnail:hover {background-color: #3c80ca !important; color: inherit;}&#xA;				#liveUpdateSiteTitle {color: #3c7a30 !important; background-color: inherit;}&#xA;				#thumbnailName {color: #ffc617 !important; background-color: inherit;}&#xA;				#largeName {color: #ffc617 !important; background-color: inherit; margin-top: 10px; margin-left: 7px; margin-right: 7px;}&#xA;				.borderBottom {border-bottom: 1px solid #ffffff !important;}&#xA;				.borderRight {border-right: 1px solid #ffffff !important;}&#xA;				body {background-color: #d0f7fd !important; color: inherit;}&#xA;			" identityPlateAbsolutePath="" numCols="5" numRows="3" homePage="index.html" imageBase="content" cellColor="#47a7e0">
+</style>
+<metadata>
+<creationDate formatted="Fri Feb 22 2013 16:02:46 GMT+0100"></creationDate>
+<groupTitle value="letní filmový tábor"></groupTitle>
+<contactInfo value="" link=""></contactInfo>
+<siteTitle value="Filmák 2012"></siteTitle>
+<groupDescription value="Butov, v nádherném prostředí Hracholuské přehrady, 30km od Plzně"></groupDescription>
+</metadata>
+<localization>
+<item id="AdobeLightroomWebSite" localized="http://labs.adobe.com/technologies/lightroom/"></item>
+<item id="AdobeLightroomBeta" localized="Adobe Lightroom Beta"></item>
+<item id="Fullsize" localized="Plná velikost"></item>
+<item id="Next" localized="Následující"></item>
+<item id="Previous" localized="Předcházející"></item>
+<item id="EmptyGallery" localized="V této galerii nejsou žádné obrazy."></item>
+<item id="more" localized="více"></item>
+<item id="Index" localized="Index"></item>
+</localization>
+</display>
+<head>
+<siteTitle></siteTitle>
+<collectionName></collectionName>
+<collectionTitle></collectionTitle>
+<collectionDescription></collectionDescription>
+<contactInfo></contactInfo>
+<slideDuration></slideDuration>
+<sizes>
+<size name="large" height="750" width="750"></size>
+<size name="thumb" height="129" width="129"></size>
+</sizes>
+</head>
+<samples totalGallerySize="26" firstSampleIndex="1">
+<img orientation="BC" imageID="0_1361545366137" filename="_1602432166" tipname="%_tempFileName_1602432166%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>1_herecká zkouška</displayname>
+<displaywidth>803</displaywidth>
+<rendition path="content/bin/images/large/_1602432166.jpg" height="562" width="750" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_1602432166.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="1_1361545366137" filename="_3046037317" tipname="%_tempFileName_3046037317%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>2_technická zkouška</displayname>
+<displaywidth>803</displaywidth>
+<rendition path="content/bin/images/large/_3046037317.jpg" height="562" width="750" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_3046037317.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="2_1361545366147" filename="_5543153621" tipname="%_tempFileName_5543153621%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>3_technická zkouška</displayname>
+<displaywidth>803</displaywidth>
+<rendition path="content/bin/images/large/_5543153621.jpg" height="562" width="750" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_5543153621.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="3_1361545366147" filename="_4451600534" tipname="%_tempFileName_4451600534%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>4_natáčení reportáže z VIP hosty</displayname>
+<displaywidth>803</displaywidth>
+<rendition path="content/bin/images/large/_4451600534.jpg" height="562" width="750" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_4451600534.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="4_1361545366147" filename="_9033551078" tipname="%_tempFileName_9033551078%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>5_režisér Karel Janák a herečka Veronika Kubařová</displayname>
+<displaywidth>803</displaywidth>
+<rendition path="content/bin/images/large/_9033551078.jpg" height="562" width="750" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_9033551078.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="5_1361545366147" filename="_6000441138" tipname="%_tempFileName_6000441138%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>6_s režisérem Karlem Janákem a herečkou Veronikou Kubařovou</displayname>
+<displaywidth>803</displaywidth>
+<rendition path="content/bin/images/large/_6000441138.jpg" height="562" width="750" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_6000441138.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="6_1361545366147" filename="_4741393856" tipname="%_tempFileName_4741393856%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>7_z natáčení s režisérem Bisim Arichtevem</displayname>
+<displaywidth>803</displaywidth>
+<rendition path="content/bin/images/large/_4741393856.jpg" height="562" width="750" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_4741393856.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="7_1361545366157" filename="_5916254494" tipname="%_tempFileName_5916254494%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>8_z natáčení</displayname>
+<displaywidth>803</displaywidth>
+<rendition path="content/bin/images/large/_5916254494.jpg" height="562" width="750" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_5916254494.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="8_1361545366157" filename="_8126471722" tipname="%_tempFileName_8126471722%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>9_z natáčení</displayname>
+<displaywidth>803</displaywidth>
+<rendition path="content/bin/images/large/_8126471722.jpg" height="562" width="750" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_8126471722.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="9_1361545366157" filename="_8476781073" tipname="%_tempFileName_8476781073%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>10_z natáčení</displayname>
+<displaywidth>803</displaywidth>
+<rendition path="content/bin/images/large/_8476781073.jpg" height="562" width="750" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_8476781073.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="10_1361545366157" filename="_2975509912" tipname="%_tempFileName_2975509912%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>11_z natáčení</displayname>
+<displaywidth>803</displaywidth>
+<rendition path="content/bin/images/large/_2975509912.jpg" height="562" width="750" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_2975509912.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="11_1361545366157" filename="_9033592236" tipname="%_tempFileName_9033592236%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>12_z natáčení</displayname>
+<displaywidth>803</displaywidth>
+<rendition path="content/bin/images/large/_9033592236.jpg" height="562" width="750" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_9033592236.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="12_1361545366167" filename="_6655019887" tipname="%_tempFileName_6655019887%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>13_z natáčení</displayname>
+<displaywidth>803</displaywidth>
+<rendition path="content/bin/images/large/_6655019887.jpg" height="562" width="750" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_6655019887.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="13_1361545366167" filename="_6031699859" tipname="%_tempFileName_6031699859%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>14_z natáčení</displayname>
+<displaywidth>803</displaywidth>
+<rendition path="content/bin/images/large/_6031699859.jpg" height="750" width="562" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_6031699859.jpg" height="129" width="96" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="14_1361545366167" filename="_4241625563" tipname="%_tempFileName_4241625563%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>15_z natáčení</displayname>
+<displaywidth>803</displaywidth>
+<rendition path="content/bin/images/large/_4241625563.jpg" height="562" width="750" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_4241625563.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="15_1361545366167" filename="_4666988760" tipname="%_tempFileName_4666988760%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>16_natáčení videoklipu z režisérem Tomášem Krejčím a filmařem Romanem Svobodou</displayname>
+<displaywidth>803</displaywidth>
+<rendition path="content/bin/images/large/_4666988760.jpg" height="562" width="750" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_4666988760.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="16_1361545366167" filename="_1980755689" tipname="%_tempFileName_1980755689%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>17_ranní rozvička</displayname>
+<displaywidth>803</displaywidth>
+<rendition path="content/bin/images/large/_1980755689.jpg" height="562" width="750" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_1980755689.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="17_1361545366177" filename="_1493259427" tipname="%_tempFileName_1493259427%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>18_plavba parníkem</displayname>
+<displaywidth>803</displaywidth>
+<rendition path="content/bin/images/large/_1493259427.jpg" height="562" width="750" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_1493259427.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="18_1361545366177" filename="_5892113501" tipname="%_tempFileName_5892113501%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>19_plavba parníkem</displayname>
+<displaywidth>803</displaywidth>
+<rendition path="content/bin/images/large/_5892113501.jpg" height="562" width="750" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_5892113501.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="19_1361545366177" filename="_0294042861" tipname="%_tempFileName_0294042861%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>20_výhra v soutěži o nejlépe uklizený pokoj</displayname>
+<displaywidth>803</displaywidth>
+<rendition path="content/bin/images/large/_0294042861.jpg" height="562" width="750" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_0294042861.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="20_1361545366177" filename="_0574793088" tipname="%_tempFileName_0574793088%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>21_opékání buřtů</displayname>
+<displaywidth>803</displaywidth>
+<rendition path="content/bin/images/large/_0574793088.jpg" height="562" width="750" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_0574793088.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="21_1361545366177" filename="_2035092548" tipname="%_tempFileName_2035092548%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>22_odevzdávání cen Zlatý Filmák_1</displayname>
+<displaywidth>803</displaywidth>
+<rendition path="content/bin/images/large/_2035092548.jpg" height="500" width="750" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_2035092548.jpg" height="86" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="22_1361545366187" filename="_9055123767" tipname="%_tempFileName_9055123767%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>23_odevzdávání cen Zlatý Filmák_2</displayname>
+<displaywidth>803</displaywidth>
+<rendition path="content/bin/images/large/_9055123767.jpg" height="500" width="750" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_9055123767.jpg" height="86" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="23_1361545366187" filename="_2167544131" tipname="%_tempFileName_2167544131%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>24_závěrečný raut</displayname>
+<displaywidth>803</displaywidth>
+<rendition path="content/bin/images/large/_2167544131.jpg" height="562" width="750" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_2167544131.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="24_1361545366187" filename="_9886276232" tipname="%_tempFileName_9886276232%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>25_diskotéka</displayname>
+<displaywidth>803</displaywidth>
+<rendition path="content/bin/images/large/_9886276232.jpg" height="562" width="750" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_9886276232.jpg" height="96" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="25_1361545366187" filename="_6206540868" tipname="%_tempFileName_6206540868%">
+<text>
+<title></title>
+<description></description>
+</text>
+<hasfilename>true</hasfilename>
+<displayname>26_Filmák 2012</displayname>
+<displaywidth>803</displaywidth>
+<rendition path="content/bin/images/large/_6206540868.jpg" height="500" width="750" size="large"></rendition>
+<rendition path="content/bin/images/thumb/_6206540868.jpg" height="86" width="129" size="thumb"></rendition>
+</img>
+</samples>
+<siteParams>
+<firstImage index="1"></firstImage>
+<lastImage index="26"></lastImage>
+<mode value="all"></mode>
+</siteParams>
+</photoCollection>

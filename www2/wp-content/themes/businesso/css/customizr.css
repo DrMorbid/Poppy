@@ -1,0 +1,42 @@
+/*Cutomizer CSS*/
+#accordion-section-businesso_pro h3.accordion-section-title{
+	background: #a0ce4e!important;
+	color:#fff !important;
+	
+}
+#accordion-section-businesso_pro h3:hover.accordion-section-title:hover{
+	background: #eee !important;
+	color:#555 !important;
+	
+}
+.businesso-content{
+float:none;
+margin-left: 20px;
+}
+.pro-btn-success {
+  color: #fff;
+  background-color: #a0ce4e;
+  border-color: #4cae4c;
+}
+.pro-btn-success:hover { color: #fff;
+  background-color: #a0ce4e; }
+.btn {
+  display: inline-block;
+  padding: 6px 12px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.42857143;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background-image: none;
+  border: 1px solid transparent;
+  border-radius: 4px;
+}
+.businesso-content a:hover {color:#fff;}

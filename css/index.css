@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+body { margin:0; background: url(file:///M|/mojeVeci/poppy%20casting/web/www/images/pg_bg.jpg) no-repeat center top; font-family:Verdana, Arial, Helvetica, sans-serif; }
+
+#pagebody { width:1000px; margin:0 auto; }
+
+#menu { width:1000px; height:50px; margin-top:320px; float:left; background-repeat:repeat-x; text-align:center; }
+.polozkamenu, .polozkamenu2 { height:22px; margin:16px 20px; font-size:16px; color:#FFFF00; font-weight:bold; }
+.polozkamenu a { color:#FFFF00; text-decoration:none; }
+.polozkamenu a:hover {color: #d71921;}
+.polozkamenu2 { color:#FFFFFF; text-decoration:underline;}
+.polozkamenu2 a { color:#FFFFFF; }
+
+/*#jizda { width:1000px; margin-top:1px; float:left; background-color:#FF0000; }
+#jizda h1 { font-family:Verdana, Arial, Helvetica, sans-serif; font-size:18px; font-weight:bold; color:#FFFFFF; margin:3px 0 3px 10px; float:left; }
+
+#page { width:1000px; margin-top:1px; float:left; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; color:#FFFFFF }
+
+#imgpage { width:220px; margin:10px; float:left; }
+#textpage { width:650px; margin:10px 0; float:left; }
+#textpage a { color:#FFFF00; font-size:11px; font-style:normal; }
+#textpage a:hover { color:#FFFFFF; }
+h1 { font-size: 18px; font-weight: bold; color: #FFFF00; margin:0 0 5px 0;}
+h2 { font-size:15px; color: #FFFF00; margin:0 0 5px 0;}
+h3 { font-size:13px; color:#FFFFFF; margin:0 0 2px 0;}
+h4 { font-size: 18px; font-weight: bold; color: #FFFF00; margin:0 0 5px 0;}
+
+#mapa { width:350px; margin:10px; float: right; text-align:center  }
+#mapa a img { border:none; }
+
+
+#produkty { width:300px; margin:10px 5px; float:left;}
+#produkty a img { border:none; }
+
+#copyright { width:1000px; height:30px; margin-top:1px; float:left; background-color:#b21117; }
+.copyright2 { width:922px; height:22px; margin:4px 0 0 4px; color:#FFF; font-size:9px; text-align:center; padding-top:6px; }
