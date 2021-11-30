@@ -1,22 +1,22 @@
 Verbose mode on.
 250 OK. Current directory is /web/www
 local: index.html remote: index.html
-227 Entering Passive Mode (85,93,165,15,157,98)
+227 Entering Passive Mode (85,93,165,15,103,73)
 150 Accepted data connection
 226-File successfully transferred
-226 0.026 seconds (measured here), 207.12 Kbytes per second
-5426 bytes sent in 0.00 secs (172.4879 MB/s)
+226 0.027 seconds (measured here), 192.21 Kbytes per second
+5396 bytes sent in 0.00 secs (285.8904 MB/s)
 local: registrace.html remote: registrace.html
-227 Entering Passive Mode (85,93,165,15,218,139)
+227 Entering Passive Mode (85,93,165,15,176,185)
 150 Accepted data connection
 226-File successfully transferred
-226 0.051 seconds (measured here), 114.69 Kbytes per second
-6021 bytes sent in 0.00 secs (220.8490 MB/s)
+226 0.047 seconds (measured here), 125.60 Kbytes per second
+5991 bytes sent in 0.00 secs (238.0609 MB/s)
 local: aktuality.html remote: aktuality.html
-227 Entering Passive Mode (85,93,165,15,17,136)
+227 Entering Passive Mode (85,93,165,15,161,187)
 150 Accepted data connection
 226-File successfully transferred
-226 0.084 seconds (measured here), 0.51 Mbytes per second
-45303 bytes sent in 0.00 secs (732.2764 MB/s)
-221-Goodbye. You uploaded 56 and downloaded 0 kbytes.
+226 0.033 seconds (measured here), 139.63 Kbytes per second
+4703 bytes sent in 0.00 secs (213.5776 MB/s)
+221-Goodbye. You uploaded 16 and downloaded 0 kbytes.
 221 Logout.
