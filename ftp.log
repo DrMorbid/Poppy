@@ -1,28 +1,28 @@
 Verbose mode on.
 250 OK. Current directory is /web/www
 local: index.html remote: index.html
-227 Entering Passive Mode (85,93,165,15,91,109)
+227 Entering Passive Mode (85,93,165,15,233,77)
 150 Accepted data connection
 226-File successfully transferred
-226 0.027 seconds (measured here), 205.91 Kbytes per second
-5698 bytes sent in 0.00 secs (271.7018 MB/s)
+226 0.028 seconds (measured here), 193.68 Kbytes per second
+5631 bytes sent in 0.00 secs (55.3623 MB/s)
 local: registrace.html remote: registrace.html
-227 Entering Passive Mode (85,93,165,15,45,31)
+227 Entering Passive Mode (85,93,165,15,181,130)
 150 Accepted data connection
 226-File successfully transferred
-226 0.043 seconds (measured here), 142.56 Kbytes per second
-6293 bytes sent in 0.00 secs (230.8259 MB/s)
+226 0.050 seconds (measured here), 121.85 Kbytes per second
+6226 bytes sent in 0.00 secs (179.9266 MB/s)
 local: aktuality.html remote: aktuality.html
-227 Entering Passive Mode (85,93,165,15,190,176)
+227 Entering Passive Mode (85,93,165,15,136,190)
 150 Accepted data connection
 226-File successfully transferred
-226 0.033 seconds (measured here), 157.03 Kbytes per second
-5256 bytes sent in 0.00 secs (238.6911 MB/s)
+226 0.030 seconds (measured here), 168.27 Kbytes per second
+5196 bytes sent in 0.00 secs (91.7647 MB/s)
 local: kontakt.html remote: kontakt.html
-227 Entering Passive Mode (85,93,165,15,94,84)
+227 Entering Passive Mode (85,93,165,15,225,226)
 150 Accepted data connection
 226-File successfully transferred
-226 0.027 seconds (measured here), 164.14 Kbytes per second
-4614 bytes sent in 0.00 secs (58.6700 MB/s)
+226 0.027 seconds (measured here), 165.04 Kbytes per second
+4614 bytes sent in 0.00 secs (86.2795 MB/s)
 221-Goodbye. You uploaded 22 and downloaded 0 kbytes.
 221 Logout.
