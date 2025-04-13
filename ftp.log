@@ -1,30 +1,28 @@
 Verbose mode on.
 250 OK. Current directory is /web/www
 local: index.html remote: index.html
-229 Extended Passive mode OK (|||58258|)
+229 Extended Passive mode OK (|||13674|)
 150 Accepted data connection
 226-File successfully transferred
-226 0.038 seconds (measured here), 152.33 Kbytes per second
-5991 bytes sent in 00:00 (143.12 KiB/s)
+226 0.041 seconds (measured here), 140.72 Kbytes per second
+5856 bytes sent in 00:00 (141.37 KiB/s)
 local: registrace.html remote: registrace.html
-229 Extended Passive mode OK (|||19744|)
+229 Extended Passive mode OK (|||63805|)
 150 Accepted data connection
 226-File successfully transferred
-226 0.044 seconds (measured here), 147.89 Kbytes per second
-6649 bytes sent in 00:00 (151.18 KiB/s)
+226 0.044 seconds (measured here), 147.07 Kbytes per second
+6672 bytes sent in 00:00 (138.90 KiB/s)
 local: aktuality.html remote: aktuality.html
-229 Extended Passive mode OK (|||6776|)
+229 Extended Passive mode OK (|||10700|)
 150 Accepted data connection
 226-File successfully transferred
-226 0.051 seconds (measured here), 460.42 Kbytes per second
-24024 bytes sent in 00:00 (443.87 KiB/s)
+226 0.050 seconds (measured here), 371.05 Kbytes per second
+18973 bytes sent in 00:00 (371.77 KiB/s)
 local: kontakt.html remote: kontakt.html
-229 Extended Passive mode OK (|||52949|)
+229 Extended Passive mode OK (|||20511|)
 150 Accepted data connection
 226-File successfully transferred
-226 0.026 seconds (measured here), 175.71 Kbytes per second
-4614 bytes sent in 00:00 (156.81 KiB/s)
-250 OK. Current directory is /web/www/images
-usage: put local-file [remote-file]
-221-Goodbye. You uploaded 41 and downloaded 0 kbytes.
+226 0.031 seconds (measured here), 146.88 Kbytes per second
+4614 bytes sent in 00:00 (142.68 KiB/s)
+221-Goodbye. You uploaded 36 and downloaded 0 kbytes.
 221 Logout.
